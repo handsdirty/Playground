@@ -1,1 +1,5 @@
 .DS_Store
+*.tif
+*.tiff
+*.aux.xml
+*.zip

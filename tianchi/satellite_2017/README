@@ -1,0 +1,11 @@
+Environment setup notes:
+# Install homebrew
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+# Update PATH.
+export PATH=/usr/local/bin:/usr/local/sbin:$PATH
+# Install Python3 on Mac.
+brew install python3
+# Create venv virtual environment.
+python3 -m venv ~/my-virtualenv
+# Install requirements.txt (you may install manually one by one along the way.)
+pip install -r requirements.txt 
