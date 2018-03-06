@@ -6,3 +6,5 @@
 *.rar
 *.jpg
 *.mp4
+*.pyc
+*.csv
