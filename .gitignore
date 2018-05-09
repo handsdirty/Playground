@@ -9,4 +9,5 @@
 *.pyc
 *.csv
 *.swp
-/**/data/*
+**/data/*
+**/*.ipynb_checkpoints/

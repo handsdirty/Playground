@@ -1,1 +1,8 @@
 Playground readme.
+
+# Jupyter install:
+pip install --upgrade pip
+pip install jupyter
+
+# Start jupyter
+jupyter notebook
