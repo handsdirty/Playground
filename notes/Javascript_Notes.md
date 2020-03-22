@@ -126,7 +126,44 @@ Js has no private or protected. We use trailing underscore for style.
   
   Best practices: bundle all js code into one file, minimize http requests.
   
-  ## DOM
-  document object refers to the <body>. More in Mozilla's DOM reference.
+## DOM
+document object refers to the body. More in Mozilla's DOM reference.
+Tutorial on Javascript accesing DOM: https://dom-tutorials.appspot.com/static/1.html
+
+```
+document.getElementById('elementId')
+document.getElementById('star').src = 'star_on.gif';
+childNodes
+lastChild; firstChild;
+parentNode;
+previousSibling; nextSibling;
+document.getElementById('stars').childNodes[1].src = 'star_on.gif';
+document.getElementById('phrase').lastChild.firstChild.src = 'star_on.gif';
+document.getElementById('laststar').previousSibling.previousSibling.src = 'star_on.gif';
+```
   
+Exercise: write a tree walker for next node.
   
+## Node Properties
+querySelectorAll()
+Many selectors are not supported in IE7 and earlier.
+jQuery 就是专门做这件事的，兼容地做query select.
+
+## Manipulating the DOM
+Tutorial
+
+```
+node.innerHTML // Never use again.
+node1.removeChild(node2);
+node1.appendChild(node2);
+document.createTextNode('hi')
+document.createElement('IMG');  // params is the TAG name.
+```
+
+## Creating DOM Nodes
+```
+createElement()
+setAttribute()
+appendChild()
+```
+
