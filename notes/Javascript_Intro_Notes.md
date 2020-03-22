@@ -207,3 +207,22 @@ Event propagation models (bubbling and capturing).
 
 # AJAX
 Ajax is a set of web development techniques using many web technologies on the client side to create asynchronous web applications. With Ajax, web applications can send and retrieve data from a server asynchronously without interfering with the display and behavior of the existing page
+
+## Same Origin Policy
+Bypass by 1x1 pixel image. How Google Analytics works.
+```
+var img = document.createElement('img');
+img.src = 'http//your-server.to/send/data/to'
+document....appendChild(img);
+```
+
+## JSON-P
+short for JavaScript Object Notation - Padded.
+Technique is to load external javascript and execute.
+```
+var script = document.createElement('script');
+script.src = 'http://your-trusted.website/js/script'
+document.....apendChild(img);
+
+// may use getElementByTagName('head')[0] or 'body' for send data.
+```
