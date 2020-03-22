@@ -54,7 +54,7 @@ Shapely==1.6.1
 simplegeneric==0.8.1
 six==1.10.0
 sklearn==0.0
-tensorflow==1.15.0
+tensorflow==1.15.2
 tensorflow-tensorboard==0.1.8
 terminado==0.8.1
 testpath==0.3.1
