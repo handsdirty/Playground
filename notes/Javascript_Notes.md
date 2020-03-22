@@ -153,7 +153,7 @@ jQuery 就是专门做这件事的，兼容地做query select.
 Tutorial
 
 ```
-node.innerHTML // Never use again.
+node.innerHTML // Never use again. It's very dangerous for script injection.
 node1.removeChild(node2);
 node1.appendChild(node2);
 document.createTextNode('hi')
@@ -165,5 +165,19 @@ document.createElement('IMG');  // params is the TAG name.
 createElement()
 setAttribute()
 appendChild()
+.className = 'xxx;
+
+.insertBefore
+.replaceChild
+.removeChild
 ```
 
+## Javascript and CSS
+Learn CSS and use it as much as possible. Realy powerful.
+```
+img.className += 'abc'
+Closure: .hasClass; .addClass, .removeClass
+node.style.XXX = 'xxx';
+```
+
+# Event Handling
