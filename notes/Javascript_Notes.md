@@ -111,3 +111,22 @@ this: depends on how it was called, Not how it is defined.
 
 Js has no private or protected. We use trailing underscore for style.
 
+# Javascript on the Web
+
+  Write js code in external file and include using <script> tag.
+  ```
+  <script src='code.js'></script>
+  ```
+  Never use self-closing script tag. Won't work in many browsers.
+  
+
+  !1 instead of false
+  
+  Compiler concatenate all the file together.  Compiler does compression, but not real obfuscation.
+  
+  Best practices: bundle all js code into one file, minimize http requests.
+  
+  ## DOM
+  document object refers to the <body>. More in Mozilla's DOM reference.
+  
+  
