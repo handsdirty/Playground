@@ -181,3 +181,29 @@ node.style.XXX = 'xxx';
 ```
 
 # Event Handling
+JS: event-driven programming model.
+Event, interaction triggered on element.
+JS: register event handler (function) for event.
+Mozilla MDN has detailed document explain events and handlers, [link](https://developer.mozilla.org/en/DOM_Client_Object_Cross-Reference/DOM_Events)
+
+## Working with events.
+Tutorials again.
+.onclick // inside click handler, this is the element clicked on.
+addEventListener('click', func, false);
+removeEventListener('click', func, false);
+
+event object. event.target. Useful properties and methods:
+```
+type
+target
+currentTarget
+stopPropagation
+preventDefault
+```
+We could set only one event listener on parentNode, and work on event.target.
+
+Event propagation models (bubbling and capturing).
+
+
+# AJAX
+Ajax is a set of web development techniques using many web technologies on the client side to create asynchronous web applications. With Ajax, web applications can send and retrieve data from a server asynchronously without interfering with the display and behavior of the existing page
