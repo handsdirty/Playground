@@ -1,5 +1,6 @@
-Chapter 3
+Chapter 3 幸福是一种随机现象吗？
 
+接上回：
 Mode: disease-mode v.s. health-mode
 
 Failure of personal growth.
@@ -20,7 +21,7 @@ The capacity to deal with difficulty when they arrive.
 
 ---------------------
 
-Lecture 3.s
+Lecture 3.
 The questions of questions.
 
 5 basic premises. The foundation.
@@ -50,10 +51,15 @@ How can I make this world a better place? Desire to make a difference.
 幸福是一种随机的现象吗？ （Happiness as Stochastic Phenomenon）
 One sentence. Changed one life.
 
+Study what works. 研究可行的方法。
+Study the best. 研究最优秀的人群。
+那些happiest的人，successful的人，great relationship的人。
+各种学习，直接去学习那些最好的，应用到自己。
+
+一个哈佛著名的研究，1930年，250个人，at risk Children，干预组和对照组。
+酗酒的人，Raising their status at work，反而是对照组更多。
+
 Study what works.
 Study the best.
-那些happiest的人，successful的人，great relationship的人。
-
-
 
 -
