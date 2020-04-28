@@ -30,5 +30,30 @@ The questions of questions.
 - Human nature must be obeyed.
 - Happiness is and ought to be the ultimate.
 
+Bridge building.
+Dirty outside world.
+
+这个世界最需要的是，具有实践精神的理想主义者。
+How can I make this world a better place? Desire to make a difference.
+有好的愿景，但是觉得自己远没有达到自己的潜力，是世界变得不同。
+
+每个教师，培训的第一节课，都应该知道马克科林斯，还有皮格马利翁效应。
+如何提高自信？首先，表扬，部分正确。不加选择盲目表扬是不行的。
+瑜伽，可以明显降低罪犯的再犯罪率。
+冥想，可以极大改变大脑，帮助产生积极的情绪。
+每周三次身体锻炼，每次30分钟，效果等同于最有效的心理药物。
+
+要成为具有实践精神的理想主义者，首先要相信 Change is possible.
+
+双胞胎研究。
+
+幸福是一种随机的现象吗？ （Happiness as Stochastic Phenomenon）
+One sentence. Changed one life.
+
+Study what works.
+Study the best.
+那些happiest的人，successful的人，great relationship的人。
+
+
 
 -
